@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/RedHate/Prime-GO/main/splash.jpg)
+![Screenshot](https://raw.githubusercontent.com/RedHate/Prime-GO-CFW/main/splash.jpg)
 
 
 # Denon Prime GO - Custom Firmware
