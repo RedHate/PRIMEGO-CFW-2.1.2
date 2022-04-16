@@ -1,7 +1,7 @@
-![Screenshot](https://raw.githubusercontent.com/RedHate/Prime-GO-CFW/main/splash.jpg)
+![Screenshot](https://raw.githubusercontent.com/RedHate/PRIMEGO-CFW/main/splash.jpg)
 
 
-# Denon Prime GO - Custom Firmware
+# Engine OS - Custom Firmware
 
 ## What's different than a stock firmware?
 - Has ssh with sftp enabled.
